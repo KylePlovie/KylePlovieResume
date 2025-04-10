@@ -7,7 +7,7 @@ html, body {
     color: #EAF0CE;
     display: flex;
     flex-direction: column;
-    overflow-x: hidden; /* 🛑 prevents sideways scroll */
+    overflow-x: hidden; 
 }
 
 
