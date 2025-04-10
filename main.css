@@ -68,7 +68,7 @@ html, body {
 }
 
 .off {
-    width: 30vw;
+    width: 25vw;
     max-width: 90%;
     height: auto;
     border-radius: 5vw;
@@ -79,6 +79,7 @@ html, body {
     max-width: 600px;
     font-size: 1rem;
     margin-bottom: 1.5rem;
+    padding-top: 1vw;
 }
 
 .contact, .contact2 {
